@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Андрей Милаков](https://up.htmlacademy.ru/javascript/30/user/1264971).
-* Наставник: `Неизвестно`.
+- Студент: [Андрей Милаков](https://up.htmlacademy.ru/javascript/30/user/1264971).
+- Наставник: [Артем Именин](https://htmlacademy.ru/profile/aimenin).
 
 ---
 
